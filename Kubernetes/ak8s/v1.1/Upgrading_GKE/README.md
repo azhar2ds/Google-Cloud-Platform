@@ -1,3 +1,3 @@
 # Architecting with Google Kubernetes Engine
 
-These labs provide hands on exercises for the Architecting with Google Kubernetes Engine course. 
+These folder provide pre build code for the Architecting with Google Kubernetes Engine. 
