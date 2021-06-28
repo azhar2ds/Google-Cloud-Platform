@@ -1,5 +1,5 @@
 
-# Instructor Demos for Big Data and Machine Learning Fundamentals
+# Instructor for Big Data and Machine Learning Fundamentals
 
 0. [Creating a VM](earthquakevm/README.md)
 1. [Analyzing Billions of lines of Github code with BigQuery](bigquery-analyze-github.sql)
